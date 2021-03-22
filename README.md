@@ -18,4 +18,9 @@
 ![GitHub Logo}(/images/logo.png)
 Format: ![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrOZ-iBesLAPOuTuSe__FgMwimBL8JZg9llQ&usqp=CAU)
 
-http://github.com-automatic![GitHub](http://github.com)
+http://github.com-automatic![GitHub](http://github.com) 
+
+First Header   |  Second Header
+------------   |  ------------
+Content cell 1  | Content cell 2
+Content column 1 | Content column 2
