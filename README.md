@@ -1,40 +1,29 @@
-Johnny Coder
+Ghanta Lohithya
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+Roll No                        Y19CB023
+MyTown                         Ongole
+MyCountry                      India
 -------------------     ----------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2016-2017
+:   **SSC**; Sri chaitanya school(Ongole)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+2017-2019
+:   **Intermediate**;Sri chaitanya jr college (ongole)
+2019-2023
+:   **Bachelors of Technology**;RVR&JCCE
 
 Experience
 ----------
 
 **Your Most Recent Work Experience:**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
 
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
 
 **That Other Job You Had**
 
